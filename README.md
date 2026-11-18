@@ -28,9 +28,11 @@ MT License (You can use it but dont Edit Code And if you edit code and not uploa
 **ROID-WIM**
 
 ## Testor
-**ANOS** (Tested v.beta.1.6 and 1.7)
-**Lanflick** (Tested beta.1.7 and stable.1.0)
-**Roid.wim** (Tested Alpha.1.0 to Stable.1.3 Remapped)
+**ANOS**
+
+**Lanflick**
+
+**Roid.wim** 
 
 ---
 
